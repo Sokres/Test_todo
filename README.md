@@ -1,7 +1,7 @@
 # Todo
 
-_Запустить_ npm i && npm run dev
-_Провести тесты_ npm run test
+- _Запустить_ npm i && npm run dev
+- _Провести тесты_ npm run test
 
 ---
 
